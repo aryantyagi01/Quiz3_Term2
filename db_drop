@@ -1,0 +1,4 @@
+Dropped database 'ideafactory_development'
+Dropped database 'ideafactory_test'
+Created database 'ideafactory_development'
+Created database 'ideafactory_test'
